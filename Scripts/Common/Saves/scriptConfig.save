@@ -1,0 +1,363 @@
+return {
+	["Evadeee_dodgeAbilities_flash"] = {
+	},
+	["sidasacmain_sidasacsubstream"] = {
+	},
+	["csashe_csashebaseult_csbaseultnormal"] = {
+	},
+	["Evadeee_spells_RocketGrab"] = {
+	},
+	["sidasacmain_sidasacfarming_sidasactowerfarm"] = {
+	},
+	["Big Fat Hev - Mark IV_TL"] = {
+	},
+	["Big Fat Hev - Mark IV_BU"] = {
+	},
+	["Big Fat Hev - Mark IV_CD"] = {
+		["_tsInstances"] = {
+		},
+		["CDon"] = true,
+		["_param"] = {
+		},
+		["CDs"] = 2,
+		["CDgr"] = true,
+		["CDm"] = 1,
+	},
+	["Draw_Evade_d"] = {
+	},
+	["Utility_Pots"] = {
+	},
+	["Evadeee_controls98"] = {
+	},
+	["csashe_csasheinterrupt_csinterrupttargets"] = {
+	},
+	["Big Fat Hev - Mark IV_RH"] = {
+		["RHen"] = false,
+		["_tsInstances"] = {
+		},
+		["RHmode"] = 1,
+		["RHm"] = 4,
+		["_param"] = {
+		},
+		["RHx"] = 1282,
+		["RHy"] = 326,
+	},
+	["sidasacmain_sidasacskills_WVolley"] = {
+	},
+	["Evadeee_dodgeAbilities_ghost"] = {
+	},
+	["EloSpikesMisc_Snd"] = {
+	},
+	["Menu"] = {
+	},
+	["VPrediction"] = {
+	},
+	["Utility_QSS"] = {
+	},
+	["Evadeee_spells_LightBinding"] = {
+	},
+	["sidasacmain_sidasacmelee"] = {
+	},
+	["Draw_Evade"] = {
+	},
+	["Evadeee_dodgeAbilities_itemshurelya"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacother"] = {
+	},
+	["Evadeee_spells_LeonaSolarFlare"] = {
+	},
+	["Big Fat Hev - Mark IV_TR"] = {
+	},
+	["Evadeee"] = {
+	},
+	["Utility_Ward"] = {
+	},
+	["Param_WaveClear"] = {
+	},
+	["sidasacmain_sidasacskills_REnchantedCrystalArrow"] = {
+	},
+	["csashe_csashebaseult_csbaseultfow"] = {
+	},
+	["Big Fat Hev - Mark IV_WT"] = {
+		["_tsInstances"] = {
+		},
+		["WTsp"] = true,
+		["WTuw"] = true,
+		["_param"] = {
+		},
+		["WTte"] = true,
+		["WTci"] = true,
+	},
+	["Param_Extra_E"] = {
+	},
+	["Big Fat Gosu"] = {
+	},
+	["sidasacmain_sidasacts"] = {
+	},
+	["Param_Harass"] = {
+	},
+	["Evadeee_dodgeAbilities_itemlocket"] = {
+	},
+	["Evadeee_spells_FlameBreathDragon"] = {
+	},
+	["Utility_AutoBuy"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacminionhealthsub"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasaccirclessub"] = {
+	},
+	["Big Fat Hev - Mark IV_VS"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacautocarryitemssub"] = {
+	},
+	["Evadeee_humanizer_evading"] = {
+	},
+	["Evadeee_spells_StaticField"] = {
+	},
+	["sidasacmain_sidasacitems_sidasaclaneclearitemssub"] = {
+	},
+	["Evadeee_advanced_spellTypes"] = {
+	},
+	["csashe_csashedraw"] = {
+	},
+	["Evadeee_traps_NidaleeTeemo"] = {
+	},
+	["sidasacmain_sidasacfarming_sidasacpredictionfarm"] = {
+	},
+	["Evadeee_spells_ZenithBlade"] = {
+	},
+	["Evadeee_buffs_Banshee's Veil"] = {
+	},
+	["Big Fat Hev - Mark IV_SC"] = {
+	},
+	["Big Fat Hev - Mark IV_AS"] = {
+	},
+	["Draw_Awareness_Waypoint"] = {
+	},
+	["sidasacmain_sidasacconfig"] = {
+	},
+	["Utility_AutoLevel"] = {
+	},
+	["sidasacmain_sidasacsubhumanizer"] = {
+	},
+	["Evadeee_spells_LuxMaliceCannon"] = {
+	},
+	["Evadeee_visuals"] = {
+		["spellLineColor"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 255,
+		},
+		["prioOrderXOffset"] = 0,
+		["stateeeSize"] = 20,
+		["dangerLineColor995"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 255,
+		},
+		["dangerLineWidth995"] = 3,
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["stateee"] = true,
+		["stateeePrint"] = false,
+		["displayEvadingPointMode"] = 5,
+		["stateeeOffset"] = 300,
+		["showPriorityMenu993"] = true,
+		["drawSkillshots"] = true,
+		["removeeeVisuals"] = true,
+		["spellLineWidth"] = 1,
+		["drawDangerArea995"] = true,
+	},
+	["Evadeee_dodgeAbilities_itemyoumuu"] = {
+	},
+	["HTTF Prediction"] = {
+	},
+	["Big Fat Hev - Mark IV"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacmixedmodeitemssub"] = {
+	},
+	["csashe_csashehotkeys"] = {
+	},
+	["VPrediction_Developers"] = {
+	},
+	["Evadeee_humanizer_movement"] = {
+	},
+	["csashe_csashelc"] = {
+	},
+	["csashe_csasheinterrupt"] = {
+	},
+	["Evadeee_humanizer_delays"] = {
+	},
+	["EloSpikesMisc_Recall"] = {
+	},
+	["Big Fat Hev - Mark IV_IT"] = {
+		["ITsw"] = true,
+		["ITsp"] = true,
+		["786D01321C5AF2A9450BF6DECC352930"] = true,
+		["_param"] = {
+		},
+		["Iaa"] = true,
+		["772E734DA2CD99167FC93AEDCAC3E9A8"] = true,
+		["_tsInstances"] = {
+		},
+		["ITsr"] = 3000,
+		["ITea"] = true,
+		["4FCD0BE7CCB281D1B5ED44FA384A70B4"] = true,
+		["Ist"] = 25,
+		["ITdm"] = true,
+		["ITon"] = true,
+	},
+	["Draw_Awareness_Wards"] = {
+	},
+	["Param_Extra"] = {
+	},
+	["Evadeee_chaseMode_anchor"] = {
+	},
+	["Draw_General"] = {
+	},
+	["csashe_csasheks"] = {
+	},
+	["Evadeee_advanced_reset"] = {
+	},
+	["Evadeee_chaseMode_humanizer"] = {
+	},
+	["Evadeee_advanced_collision"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasaclaneclearsub"] = {
+	},
+	["csashe_csashebaseult"] = {
+	},
+	["Draw_General_Skin"] = {
+	},
+	["Master"] = {
+		["row"] = 149.1,
+		["py1"] = 662,
+		["osTime"] = 1476243958,
+		["x"] = 27,
+		["y"] = 192,
+		["name1"] = "sidasacmain",
+		["cellSize"] = 12,
+		["P1"] = 30,
+		["I1"] = 5,
+		["px"] = 901,
+		["fontSize"] = 11,
+		["py2"] = 614,
+		["iCount"] = 1,
+		["width"] = 213,
+		["PS1"] = 0,
+		["useTS"] = true,
+		["py"] = 614,
+		["color"] = {
+			["lgrey"] = 1413167931,
+			["grey"] = 4290427578,
+			["green"] = 1409321728,
+		},
+		["midSize"] = 5.5,
+	},
+	["sidasacmain_sidasacsetup_sidasacmixedmodesub"] = {
+	},
+	["VPrediction_Collision"] = {
+	},
+	["Draw_Hero"] = {
+	},
+	["sidasacmain_sidasacfarming_sidasacsubmasteries"] = {
+	},
+	["EloSpikesMisc_Rpl"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasaclasthitsub"] = {
+	},
+	["csashe_csashemm"] = {
+	},
+	["EloSpikesMisc"] = {
+	},
+	["Draw_Awareness_Spells"] = {
+	},
+	["Evadeee_traps_CaitlynJinx"] = {
+	},
+	["csashe_csasheother"] = {
+	},
+	["Evadeee_chaseMode_special"] = {
+		["_tsInstances"] = {
+		},
+		["dodgeOnlyDangerous"] = false,
+		["evadeTowardsAnchorOnly9962"] = false,
+		["ignoreCircularSpells"] = false,
+		["_param"] = {
+		},
+		["useMoreDashes"] = true,
+	},
+	["Draw"] = {
+	},
+	["Orbwalker"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacenemyrangesub"] = {
+	},
+	["Evadeee_spells_LuxLightStrikeKugel"] = {
+	},
+	["csashe_csasheac"] = {
+	},
+	["Big Fat Hev - Mark IV_RT"] = {
+	},
+	["Evadeee_advanced_evading"] = {
+	},
+	["sidasacmain_sidasachotkeys"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasacautocarrysub"] = {
+	},
+	["Big Fat Hev - Mark IV_AS_BT"] = {
+	},
+	["sidasacmain_sidasacpets"] = {
+	},
+	["Big Fat Hev - Mark IV_JT"] = {
+	},
+	["csashe_csashebaseult_csbaseulttargets"] = {
+	},
+	["Evadeee_spells_FlameBreath"] = {
+	},
+	["Evadeee_humanizer_dodgeAbilities"] = {
+	},
+	["Draw_General_PermaShow"] = {
+	},
+	["Param_Combo"] = {
+	},
+	["Big Fat Hev - Mark IV_MC"] = {
+	},
+	["csashe_csashejungle"] = {
+	},
+	["sidasacmain_sidasacskills"] = {
+	},
+	["HTTF Prediction_Collision"] = {
+	},
+	["Draw_Awareness"] = {
+	},
+	["Evadeee_dodgeAbilities_itemzhonya"] = {
+	},
+	["Evadeee_humanizer_anchor"] = {
+	},
+	["Prediction"] = {
+	},
+	["Evadeee_spells_UFSlash"] = {
+	},
+	["Param_JungleClear"] = {
+	},
+	["Evadeee_chaseMode"] = {
+	},
+	["Evadeee_performance"] = {
+	},
+	["Evadeee_advanced_api"] = {
+	},
+	["Evadeee_spells_FizzUltimate"] = {
+	},
+	["sidasacmain_sidasacadvanced"] = {
+	},
+	["sidasacmain"] = {
+	},
+	["Draw_Evade_t"] = {
+	},
+	["Evadeee_spells_DragonsDescent"] = {
+	},
+}
